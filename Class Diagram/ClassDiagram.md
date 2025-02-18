@@ -28,6 +28,8 @@ You may use character symbols to specify the visibility of the associated object
 The following images show how to use the access modifiers in the class diagram:
 ![image](https://github.com/user-attachments/assets/8bcfed2f-da49-42aa-9df5-85332ba9f860)
 
+![image](https://github.com/user-attachments/assets/ed9aeb4a-107f-443e-aa25-c4a2918631bb)
+
 **Association**
 Association provides a mechanism to communicate one object with another object, or one object provides services to another object. Association represents the relationship between classes.
 
