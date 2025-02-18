@@ -1,5 +1,4 @@
-To simplify,
-
+**To simplify,**
 When the base use case is executed, the included use case is executed EVERYTIME.
 The base use case required the completion of the included use case in order to be completed.
 a typical example: between login and verify password
@@ -21,8 +20,7 @@ a typical example: between login and show error message (only happened sometimes
 
 
 
-**This reads to me as:
-**
+**This reads to me as:**
 Include = reuse of functionality (i.e. the included functionality is used or could be used elsewhere in the system). Include therefore denotes a dependency on another use case.
 
 Extends = adding (not reusing) functionality and also any optional functionality. Extends therefore can denote one of two things:
