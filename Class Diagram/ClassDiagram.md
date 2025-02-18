@@ -23,6 +23,8 @@ You may use character symbols to specify the visibility of the associated object
 
 **Protected**: Members are only accessible within the class and derived classes. It is represented by the # symbol.
 
+**Default**: ~ for package or default visibility (visible to classes in the same package)
+
 The following images show how to use the access modifiers in the class diagram:
 ![image](https://github.com/user-attachments/assets/8bcfed2f-da49-42aa-9df5-85332ba9f860)
 
